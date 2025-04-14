@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: websocketb
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/websocketdb
+
+
